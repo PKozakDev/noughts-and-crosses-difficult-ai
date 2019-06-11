@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=computerPlayer
+comment1.params=gBoard
+comment1.target=int\ getMove(Grid)
+comment2.params=board\ piece
+comment2.target=int\ findWinLoc(Grid,\ char)
+comment3.params=gBoard\ piece\ winnings
+comment3.target=int\ lookFork(Grid,\ char,\ int)
+numComments=4
